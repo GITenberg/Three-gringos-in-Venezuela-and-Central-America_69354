@@ -1,0 +1,37 @@
+_repo: Three-gringos-in-Venezuela-and-Central-America_69354
+_version: 0.0.1
+alternative_title: 3 gringos in Venezuela and Central America
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '2022-11-15'
+identifiers:
+  gutenberg: '69354'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044044496487&view=1up&seq=1&skin=2021
+pgterms:marc905: 20220218153441davis
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was made using scans of public domain works
+  put online by Harvard University Library's Open Collections Program.)
+publication_note: 'United States: Harper & Brothers Publishers,1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Central America -- Description and travel'
+- !lcsh 'Venezuela -- Description and travel'
+- !lcsh 'Louisiana State Lottery Company'
+- !lcc 'F1401'
+- GITenberg
+tableOfContents: On the Carribean Sea -- The exiled lottery -- In Honduras -- At Corinto
+  -- On the isthmus of Panama -- The Paris of South America.
+title: Three gringos in Venezuela and Central America
+url: http://www.gutenberg.org/ebooks/69354
