@@ -1,6 +1,9 @@
 _repo: Three-gringos-in-Venezuela-and-Central-America_69354
 _version: 0.1.0
 alternative_title: 3 gringos in Venezuela and Central America
+covers:
+- cover_type: archival
+  image_path: 69354-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: https://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69354#Three-gringos-in-Venezuela-and-Central-America
 gutenberg_issued: '2022-11-15'
 identifiers:
   gutenberg: '69354'
